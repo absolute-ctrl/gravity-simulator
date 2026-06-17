@@ -4,7 +4,7 @@ A 2D physics simulation built in C# with Windows Forms. Sixteen balls bounce ins
  
 ## Screenshot
  
-<img src="" width="100%">
+<img src="Captura de tela 2026-06-17 134313.png" width="100%">
  
 The window itself is part of the simulation. I track the window's position every frame, derive its velocity, then its acceleration, and apply the inverse of that acceleration to every ball as a pseudo force. Drag the window fast in one direction and the balls react like the table under them just got pulled. Same physics you feel in a car taking a sharp turn, just simulated instead of felt.
  
