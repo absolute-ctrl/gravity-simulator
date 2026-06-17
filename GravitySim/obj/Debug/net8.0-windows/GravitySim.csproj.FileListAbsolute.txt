@@ -1,0 +1,28 @@
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\bin\Debug\net8.0-windows\GravitySim.exe
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\bin\Debug\net8.0-windows\GravitySim.deps.json
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\bin\Debug\net8.0-windows\GravitySim.runtimeconfig.json
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\bin\Debug\net8.0-windows\GravitySim.dll
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\bin\Debug\net8.0-windows\GravitySim.pdb
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\GravitySim.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\GravitySim.AssemblyInfoInputs.cache
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\GravitySim.AssemblyInfo.cs
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\GravitySim.csproj.CoreCompileInputs.cache
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\GravitySim.dll
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\refint\GravitySim.dll
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\GravitySim.pdb
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\GravitySim.genruntimeconfig.cache
+c:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\C#\GravitySim\obj\Debug\net8.0-windows\ref\GravitySim.dll
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\bin\Debug\net8.0-windows\GravitySim.exe
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\bin\Debug\net8.0-windows\GravitySim.deps.json
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\bin\Debug\net8.0-windows\GravitySim.runtimeconfig.json
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\bin\Debug\net8.0-windows\GravitySim.dll
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\bin\Debug\net8.0-windows\GravitySim.pdb
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\GravitySim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\GravitySim.AssemblyInfoInputs.cache
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\GravitySim.AssemblyInfo.cs
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\GravitySim.csproj.CoreCompileInputs.cache
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\GravitySim.dll
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\refint\GravitySim.dll
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\GravitySim.pdb
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\GravitySim.genruntimeconfig.cache
+C:\Users\EduardoKirst\OneDrive - ULTRAMAR\Área de Trabalho\Gravity Simulator\GravitySim\obj\Debug\net8.0-windows\ref\GravitySim.dll

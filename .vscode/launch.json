@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Gravity Simulator",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/GravitySim/bin/Debug/net8.0-windows/GravitySim.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/GravitySim",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ]
+}
